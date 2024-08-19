@@ -1,5 +1,0 @@
-O código em questão faz uso da estrutura de ordenação "quick sort", 
-sua eficiência vem da abordagem de "dividir para conquistar", 
-selecionando o meio como seu pivô para trocar os elementos do vetor.
-Ele funciona divido o vetor diversas vezes e ordenando de maneira
-decrescente com ajuda do laço de repetição e as variaveis i, j e aux.
